@@ -1,0 +1,225 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    position: fixed;
+    background-color:rgb(103, 208, 234) ;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+}
+
+.school_name{
+    font-size: 25px;
+    position: relative;
+    left: 5%;
+    color: white;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+ul{
+    position:relative;
+    float:right;
+    margin-right: 20px;
+}
+
+ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0.5px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+
+.main_img{
+    width: 100%;
+    height: 300px;
+   
+}
+
+.section1{
+    padding-top: 70px;
+    padding-bottom: 20px;
+   
+}
+
+.img_text{
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: midnightblue;
+    color: beige;
+    top: 20%;
+    left: 30%;
+    font-size: 35px;
+}
+
+.container{
+    padding-top: 70px;
+}
+
+.welcome_img{
+    width: 100%;
+    height: 250px;
+}
+.teacher
+{
+    width: 90%;
+    height: 200px;
+}
+
+.school_name{
+    font-size: 25px;
+    position: relative;
+    left: 5%;
+    color: white;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+ul{
+    position:relative;
+    float:right;
+    margin-right: 20px;
+}
+
+ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0.5px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
+
+.main_img{
+    width: 100%;
+    height: 30px;
+    padding-left: 0%;
+
+}
+
+.section1{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.img_text{
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    color: beige;
+    top: 20%;
+    left: 30%;
+    font-size: 25px;
+}
+
+.container{
+    padding-top: 70px;
+}
+
+.teacher
+{
+    width: 90%;
+    height: 200px;
+}
+
+.label_text{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+    
+}
+
+.input_des{
+    width: 30%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+
+.adm_info{
+    padding-top: 20px;
+}
+
+.input_txt
+{
+    width: 30%;
+    height: 120px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+
+#submit
+{
+    position: relative;
+    width: 15%;
+    left: 5%;
+}
+
+footer{
+    background-color: blue;
+    height: 70px;
+    width: 100%;
+}
+
+.footer_txt{
+    text-align: right;
+    color: white;
+    top: 20%;
+    position: relative;
+}
+
+.adm{
+    padding-bottom: 50px;
+}
+
+.form_des{
+    padding-top: 200px;
+}
+.label_des{
+    display: inline-block;
+    color: skyblue;
+    width: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: right;
+}
+
+.login_form{
+    background-color: black;
+    width: 500px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.form_title{
+    background-color: skyblue;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 500px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.body_des
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
